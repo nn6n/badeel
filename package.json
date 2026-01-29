@@ -51,7 +51,7 @@
 		"fuse.js": "^7.0.0",
 		"marked": "^11.1.1",
 		"prettier": "^3.0.3",
-		"solid-js": "^1.8.5",
+		"solid-js": "^1.8.8",
 		"solid-toast": "^0.5.0",
 		"solid-transition-group": "^0.2.3"
 	},
